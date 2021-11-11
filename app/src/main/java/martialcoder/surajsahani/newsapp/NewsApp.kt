@@ -2,9 +2,9 @@ package martialcoder.surajsahani.newsapp
 
 import android.app.Activity
 import android.app.Application
-import martialcoder.surajsahani.newsapp.di.base.AppInjector
 import dagger.android.DispatchingAndroidInjector
 import dagger.android.HasActivityInjector
+import martialcoder.surajsahani.newsapp.di.base.AppInjector
 import javax.inject.Inject
 
 class NewsApp : Application(), HasActivityInjector {

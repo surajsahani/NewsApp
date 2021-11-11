@@ -1,8 +1,9 @@
 package martialcoder.surajsahani.newsapp.di
 
-import martialcoder.surajsahani.newsapp.ui.newslist.NewsActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
+import martialcoder.surajsahani.newsapp.ui.newslist.NewsActivity
+
 
 @Module
 abstract class ActivityModule {

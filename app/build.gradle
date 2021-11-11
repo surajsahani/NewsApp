@@ -98,4 +98,6 @@ dependencies {
     testImplementation "androidx.arch.core:core-testing:2.0.1"
     androidTestImplementation "androidx.test:runner:1.1.1"
     androidTestImplementation "androidx.test.espresso:espresso-core:3.1.1"
+    implementation 'org.glassfish:javax.annotation:10.0-b28'
+    compileOnly 'com.github.pengrad:jdk9-deps:1.0'
 }

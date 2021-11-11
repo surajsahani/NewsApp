@@ -7,11 +7,11 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.FragmentManager
 import martialcoder.surajsahani.newsapp.NewsApp
-import com.martialcoder.newsapp.di.base.Injectable
 import dagger.android.AndroidInjection
 import dagger.android.support.AndroidSupportInjection
 import dagger.android.support.HasSupportFragmentInjector
 import martialcoder.surajsahani.newsapp.di.DaggerAppComponent
+
 
 /**
  * Helper class to automatically inject fragments if they implement [Injectable].

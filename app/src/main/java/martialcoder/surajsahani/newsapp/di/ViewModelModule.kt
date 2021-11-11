@@ -2,8 +2,8 @@ package martialcoder.surajsahani.newsapp.di
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.martialcoder.newsapp.di.base.ViewModelFactory
-import com.martialcoder.newsapp.di.base.ViewModelKey
+import martialcoder.surajsahani.newsapp.di.base.ViewModelFactory
+import martialcoder.surajsahani.newsapp.di.base.ViewModelKey
 import martialcoder.surajsahani.newsapp.ui.newslist.NewsViewModel
 import dagger.Binds
 import dagger.Module

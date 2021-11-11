@@ -2,7 +2,7 @@ package martialcoder.surajsahani.newsapp.utils
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProviders
-import com.martialcoder.newsapp.di.base.ViewModelFactory
+import martialcoder.surajsahani.newsapp.di.base.ViewModelFactory
 import martialcoder.surajsahani.newsapp.ui.base.BaseActivity
 
 /**

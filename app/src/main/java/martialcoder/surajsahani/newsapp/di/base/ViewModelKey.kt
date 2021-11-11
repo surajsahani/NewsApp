@@ -1,4 +1,4 @@
-package com.martialcoder.newsapp.di.base
+package martialcoder.surajsahani.newsapp.di.base
 
 import androidx.lifecycle.ViewModel
 import dagger.MapKey
